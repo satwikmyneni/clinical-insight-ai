@@ -1,1 +1,4 @@
-project_id = "zkadgyvzgsqzpkazfomp"
+ project_id = "zkadgyvzgsqzpkazfomp"
+ 
+ [functions.clinical-chat]
+ verify_jwt = false
